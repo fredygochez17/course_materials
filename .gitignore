@@ -1,0 +1,14 @@
+# Database files
+*.duckdb
+*.sqlite
+*.db
+*.csv
+*.json
+*.txt
+
+# Large email datasets
+**/mbox.txt
+**/mbox-short.txt
+
+# Large JavaScript Files
+**/d3.v2.js

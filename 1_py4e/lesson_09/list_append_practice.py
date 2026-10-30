@@ -1,0 +1,5 @@
+stuff = list()
+stuff.append('hi')
+stuff.append(8)
+stuff.append(float(8))
+print(stuff)
